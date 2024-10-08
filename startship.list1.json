@@ -8603,9 +8603,29 @@
     "id1": "STEAM_0:0:632010750",
     "id3": "[U:1:1264021500]",
     "label": "Gorbuce The Wise",
-    "type": "cheater",
+    "type": "watched",
     "aliases": [
       "Gorbuce The Wise"
+    ]
+  },
+      {
+    "id": "765612295318305051034",
+    "id1": "STEAM_0:1:791906721",
+    "id3": "[U:1:1583813443]",
+    "label": "do you speak english",
+    "type": "cheater",
+    "aliases": [
+      "do you speak english"
+    ]
+  },
+        {
+    "id": "76561199548243272",
+    "id1": "STEAM_0:0:793988772",
+    "id3": "[U:1:1587977544]",
+    "label": "Linux",
+    "type": "cheater",
+    "aliases": [
+      "Linux"
     ]
   },
   {
